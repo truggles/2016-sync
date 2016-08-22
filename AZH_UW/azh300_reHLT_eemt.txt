@@ -1,0 +1,10 @@
+
+
+First sync sample for EEMT channel
+#1 - /afs/cern.ch/work/t/truggles/public/AZH-2016-Sync/azh300_eemt.root 
+
+
+
+22 Aug 2016:
+ - based off of cuts found in new twiki
+

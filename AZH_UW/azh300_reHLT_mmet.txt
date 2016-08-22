@@ -1,0 +1,10 @@
+
+
+First sync sample for MMET channel
+#1 - /afs/cern.ch/work/t/truggles/public/AZH-2016-Sync/azh300_mmet.root 
+
+
+
+22 Aug 2016:
+ - based off of cuts found in new twiki
+
