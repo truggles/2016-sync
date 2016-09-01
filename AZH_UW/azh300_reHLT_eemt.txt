@@ -1,9 +1,14 @@
 
 
+#2 - /afs/cern.ch/work/t/truggles/public/AZH-2016-Sync/azh300_eemt_sept01.root
+
 First sync sample for EEMT channel
 #1 - /afs/cern.ch/work/t/truggles/public/AZH-2016-Sync/azh300_eemt.root 
 
 
+
+01 Sept 2016:
+ - Removed electron and muon isolation cuts
 
 22 Aug 2016:
  - based off of cuts found in new twiki
