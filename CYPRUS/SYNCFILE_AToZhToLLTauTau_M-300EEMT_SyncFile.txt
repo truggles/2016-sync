@@ -1,0 +1,8 @@
+first posting of AZH 300Gev EEMT sync sample from Giannis
+
+sample : /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
+
+
+location: /afs/cern.ch/user/i/ivasilas/public/AToZhToLLTauTau_M-300EEMT_SyncFile.root
+
+
