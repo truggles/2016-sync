@@ -1,0 +1,8 @@
+First sync sample for EEMT channel
+#1 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT.root
+
+
+18 July 2017:
+ - first sync tree, based on the current twiki
+ - no trigger information applied yet
+
