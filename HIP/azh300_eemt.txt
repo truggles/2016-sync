@@ -1,8 +1,13 @@
 First sync sample for EEMT channel
+
+#2 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT_fixed.root
 #1 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT.root
 
 
 18 July 2017:
+ tree #1:
  - first sync tree, based on the current twiki
  - no trigger information applied yet
-
+ tree #2:
+ - correct tau eta cut
+ - remove requirement on Higgs charge
