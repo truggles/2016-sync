@@ -1,8 +1,12 @@
 First sync sample for EEMT channel
 
+Current file: /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/EEMT_sync_spring16.root
+
 #2 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT_fixed.root
 #1 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT.root
 
+27 July 2017:
+ - Use spring 16 electron mvaID (old trees had spring 15)
 
 18 July 2017:
  tree #1:
