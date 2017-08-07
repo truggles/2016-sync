@@ -1,0 +1,20 @@
+
+7 August 2017
+
+These are intended to help us sync the Reducible Background method.  Not every cut is applied which is required for each channel because, for example, EEMT can be used for both Muon Fake Rate and Tau Fake Rate.
+
+What cuts are applied in these files? Almost all of the cuts listed here: https://twiki.cern.ch/twiki/bin/viewauth/CMS/AZh-Htautau2016#Baseline_selection_denominator   with the exception of these cuts which are listed to show if they apply to the denominator region (and also passing region) or just to the passing region:
+    'tau' :
+        'denom' : All cuts already applied
+        'pass' : 'byMediumIsolationMVArun2v1DBoldDMwLT > 0.5'
+    'electron' :
+        'denom' : 'transverseMass(electron, MET) < 30' # to suppress real leptons from WZ and ZZ
+        'pass' : 'iso < 0.3', 'MVANonTrigWP90 > 0.5'
+    'muon' :
+        'denom' : 'transverseMass(muon, MET) < 30', # to suppress real leptons from WZ and ZZ
+        'pass' : 'iso < 0.25', 'PFIDLoose > 0.5'
+
+Additionally, for LLTT channels, 'LT_higgs > 50' is not currently applied, but should be for the denominator and passing regions.
+
+Location of files: /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/redBkg_*.root
+
