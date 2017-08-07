@@ -13,3 +13,9 @@ File with same everything as above except no electron energy regression applied.
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170802/azh300_eemt_sync_20170802_noElecReg.root
 Same as directly above, but no trigger cuts are applied. This means we do not check if the trigger fired.  We do not check for matched leptons.  And because of that, we leave all pt cuts at their defalut levels (10 elec, 10 muon, 20 tau). This results in 771 events passing.  I did not dig into the details, but it is likely much of this is from the pt requirements being relaxed.
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170802/azh300_eemt_sync_20170802_noElecReg_noTrig.root
+
+Aug 7, 2017
+Identical to Aug 2, 2017 except the numGoodMuon variable has been updated to properly reflect our isolation and ID choices
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/azh300_eemt_sync_20170807_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/azh300_eemt_sync_20170807_noElecReg_noTrig.root
+ 
