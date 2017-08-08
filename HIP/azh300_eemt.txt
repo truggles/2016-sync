@@ -1,17 +1,24 @@
-First sync sample for EEMT channel
+Sync for EEMT channel (MC)
+  
+  Using AZh sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
 
-Current file: /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/EEMT_sync_spring16.root
-
-#2 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT_fixed.root
-#1 - /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT.root
-
+8 August 2017:
+  - Fixed the MVA values for Spring16
+    a) Without trigger cuts:
+       /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/EEMT_sync_spring16FIXED.root
+    b) With trigger cuts:
+       /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/EEMT_sync_spring16FIXED_trgCuts.root      
+ 
 27 July 2017:
  - Use spring 16 electron mvaID (old trees had spring 15)
-
+   /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/EEMT_sync_spring16.root
+  
 18 July 2017:
  tree #1:
  - first sync tree, based on the current twiki
  - no trigger information applied yet
+      /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT.root
  tree #2:
  - correct tau eta cut
  - remove requirement on Higgs charge
+     /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT_fixed.root
