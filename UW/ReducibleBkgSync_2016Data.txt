@@ -18,3 +18,8 @@ Additionally, for LLTT channels, 'LT_higgs > 50' is not currently applied, but s
 
 Location of files: /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/redBkg_*.root
 
+
+9 August 2017
+Update, there were ~15 data files which were not included in the original sync files.  Those have all been added.  No changes to cuts.
+
+Location of files: /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/redBkg_*.root
