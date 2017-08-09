@@ -19,3 +19,6 @@ Identical to Aug 2, 2017 except the numGoodMuon variable has been updated to pro
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/azh300_eemt_sync_20170807_noElecReg.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/azh300_eemt_sync_20170807_noElecReg_noTrig.root
  
+Aug 9, 2017
+Identical to Aug 7, 2017 except am not requiring that HLT trigger matching checks that matched leptons pass the last filter of the respective HLT path.  Only providing version with trigger cuts applied.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_eemt_sync_20170809_noElecReg.root
