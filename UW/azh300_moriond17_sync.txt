@@ -1,0 +1,41 @@
+First posting of Moriond17 sync sample from Tyler
+
+Moriond17 sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
+
+This is based off of the baseline cuts found online at:
+https://twiki.cern.ch/twiki/bin/viewauth/CMS/AZh-Htautau2016
+
+Current Best File: /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170620/azh300_eemt_sync_20170620.root
+
+Alternative files:
+Aug 2, 2017
+File with same everything as above except no electron energy regression applied. Checked that muon and tau pt are the same for common events, and electron pts change. The event yields change a tiny amount. It looks like ~40 events pass into/out of acceptance.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170802/azh300_eemt_sync_20170802_noElecReg.root
+Same as directly above, but no trigger cuts are applied. This means we do not check if the trigger fired.  We do not check for matched leptons.  And because of that, we leave all pt cuts at their defalut levels (10 elec, 10 muon, 20 tau). This results in 771 events passing.  I did not dig into the details, but it is likely much of this is from the pt requirements being relaxed.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170802/azh300_eemt_sync_20170802_noElecReg_noTrig.root
+
+Aug 7, 2017
+Identical to Aug 2, 2017 except the numGoodMuon variable has been updated to properly reflect our isolation and ID choices
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/azh300_eemt_sync_20170807_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170807/azh300_eemt_sync_20170807_noElecReg_noTrig.root
+ 
+Aug 9, 2017
+Identical to Aug 7, 2017 except am not requiring that HLT trigger matching checks that matched leptons pass the last filter of the respective HLT path.  Only providing version with trigger cuts applied.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_eemt_sync_20170809_noElecReg.root
+
+Aug 9, 2017 #2
+Adding remaining channels: EEET, EETT, EEEM, MMET, MMMT, MMTT, MMEM.  Same everything as Aug 9, 2017 #1
+For comparison, let's begin by focusing on MMET and MMMT
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_eeet_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_eemt_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_eeem_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_eett_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_mmet_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_mmmt_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_mmtt_sync_20170809_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_mmem_sync_20170809_noElecReg.root
+
+
+
+
+ 
