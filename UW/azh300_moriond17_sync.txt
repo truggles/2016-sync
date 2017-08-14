@@ -35,7 +35,12 @@ For comparison, let's begin by focusing on MMET and MMMT
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_mmtt_sync_20170809_noElecReg.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170809/azh300_mmem_sync_20170809_noElecReg.root
 
-
+Aug 14, 2017
+Fixed missing trigger filter for 2nd doubleMuon trigger, all else the same as above, this gives near 100% sync with HIP in MMTT and MMET channels (1 additional event in HIP Ntuples).  I am also updating the MMMT and MMEM channels as well, but do not expect great sync on them from our discussion on Friday.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170814/azh300_mmet_sync_20170814_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170814/azh300_mmmt_sync_20170814_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170814/azh300_mmem_sync_20170814_noElecReg.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170814/azh300_mmtt_sync_20170814_noElecReg.root
 
 
  
