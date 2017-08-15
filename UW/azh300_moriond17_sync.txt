@@ -43,4 +43,14 @@ Fixed missing trigger filter for 2nd doubleMuon trigger, all else the same as ab
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170814/azh300_mmtt_sync_20170814_noElecReg.root
 
 
+Aug 15, 2017
+For assistance in debugging, here are the MMMX and EEET channels with no trigger cuts applied (including trigger pt threshold)
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170815/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170815/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170815/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170815/azh300_eeem.root
  
+
+
+
+
