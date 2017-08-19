@@ -52,5 +52,27 @@ For assistance in debugging, here are the MMMX and EEET channels with no trigger
  
 
 
+Aug 19, 2017
+Updated dZ value in numGoodMuons, added missingHits to numGoodElectrons, and fixed a problem in FSA for Z boson candidates.  Two sets, with and without trigger cuts:
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_NoTrigReq/azh300_mmtt.root
+ - 
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_mmtt.root
+
+
+
 
 
