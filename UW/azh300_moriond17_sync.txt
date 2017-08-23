@@ -73,6 +73,15 @@ Updated dZ value in numGoodMuons, added missingHits to numGoodElectrons, and fix
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170819_IncludeTrig/azh300_mmtt.root
 
 
+Aug 23, 2017
+Only changed EEET as newest change only affects its event selection.  If Leg3 and Leg4
+can both be reconstructed as electron and tau, choose Leg3 to be the higher Pt option
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170823_IncludeTrig/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170823_NoTrigReq/azh300_eeet.root
+
+
+
+
 
 
 
