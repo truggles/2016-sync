@@ -1,0 +1,11 @@
+
+
+31 Aug, 2017
+First demo sync sample for ZH associated production SM-HTT analysis. This
+incorporates all changes made during the previous month of sync work with
+the AZh group.
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170831/ZH125_eemt.root
+
+
+
+
