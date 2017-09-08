@@ -7,5 +7,15 @@ the AZh group.
  - /afs/cern.ch/work/t/truggles/public/forZH/20170831/ZH125_eemt.root
 
 
-
+8 Sept, 2017
+Adding sync files for all 8 channels.  These are built off of latest
+AZh sync work:
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_mmtt.root
 
