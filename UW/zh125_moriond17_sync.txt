@@ -19,3 +19,14 @@ AZh sync work:
  - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_mmmt.root
  - /afs/cern.ch/work/t/truggles/public/forZH/20170908/ZHTauTau125_mmtt.root
 
+
+11 Sept, 2017
+Require that any selected Z boson is the best possible candidate (of the possible configurations for a 4 lepton event).  Only scans over 1 4 lepton configuration at a time.  If we had 5 electrons in an event, this would not consider Z boson pairs not possible in the 4 leptons.
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forZH/20170911/ZHTauTau125_mmtt.root
