@@ -80,6 +80,16 @@ can both be reconstructed as electron and tau, choose Leg3 to be the higher Pt o
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170823_NoTrigReq/azh300_eeet.root
 
 
+12 Sept, 2017
+Updated electron ID/Iso WPs.  Electrons associated with Z boson only have to pass WP90 (no additional iso requirement).  Also updated Z boson requirement that the selected Z boson must be closer in mass to Z mass than any other possible OS Z configuration in that event (only applies to EEET,EEEM,MMMT,MMEM events).
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170912/azh300_mmtt.root
 
 
 
