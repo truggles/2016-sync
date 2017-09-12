@@ -6,5 +6,8 @@ Kicking off data card sync using latest updates to electron ID/Iso WPs and assoc
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20170912/htt_zh.inputs-mssm-13TeV_4LMass_new.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20170912/htt_zh.inputs-mssm-13TeV_AMass_new.root
 
+also adding old WPs and Z boson requirements (pre-Sept12), sorry about wrong binning.  Don't try to align to this binning, this sample can be used to check yield comparisons.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20170912/htt_zh.inputs-mssm-13TeV_AMass_oldSelections.root
+
 
 
