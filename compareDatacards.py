@@ -18,6 +18,8 @@ def getHist(f,cat,histn):
     histogram = f.Get('%(cat)s/%(histn)s'%vars())
     if isinstance(histogram, ROOT.TH1):
         return histogram
+    #if isinstance(histogram, ROOT.TH1D):
+    #    return histogram
     print 'Failed to find a histogram %(cat)s/%(histn)s in file'%vars(), f
     return None
 
@@ -55,7 +57,7 @@ def comparisonPlots(files, titles, category, pname='sync.pdf', ratio=True, contr
 
     display = DisplayManager(pname, ratio)
     if contributions is None:
-        contributions = ['ZTT','ZLL','VV','W','QCD','TT','data_obs','ggH125','ZJ','ZL']
+        contributions = ['data_obs','ggH_htt125','qqH_htt125','ZH_htt125','WH_htt125','ZZ','RedBkg','TriBoson','ZH_hww125','azh220','azh240','azh260','azh280','azh300','azh320','azh340','azh350']
     
     for template in contributions:
     
@@ -131,6 +133,8 @@ if __name__ == '__main__':
             categories = category_dict['em']
         if fnmatch.fnmatch(args[0], '*htt_tt.inputs*'):
             categories = category_dict['tt']
+        if fnmatch.fnmatch(args[0], '*htt_zh.inputs*'):
+            categories = category_dict['zh']
     
 
     for category in categories:
