@@ -1,0 +1,10 @@
+
+
+
+12, Sept 2017
+Kicking off data card sync using latest updates to electron ID/Iso WPs and associated scale factors.  Two files provided, 1 with svFit higgs mass incorporated with AMass in the title and another with purely visible mass of all 4 leptons with 4LMass in title.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20170912/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20170912/htt_zh.inputs-mssm-13TeV_AMass_new.root
+
+
+
