@@ -1,0 +1,11 @@
+
+
+
+12, Sept 2017
+Kicking off data card sync using latest updates to electron ID/Iso WPs and associated scale factors.
+Distributions are binned in svFitMass from 0-300 GeV in 10 GeV bins.  Distributions also have the latest
+LT_higgs cuts.
+ - /afs/cern.ch/work/t/truggles/public/forZH/dcSync/20170912/htt_zh.inputs-sm-13TeV_svFitMass_new.root
+
+
+
