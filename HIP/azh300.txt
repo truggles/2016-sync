@@ -2,6 +2,22 @@ Sync for AZh (MC)
   
   Using AZh sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
 
+
+22 September 2017:
+  - Modify Z selection process from (OS, IDISO, MASS) to (OS, MASS, IDISO)
+  - For Z->ee, remove isolation. Use Spring 16 WP 90 as id.
+
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/EEEM_sep22_sync_trigger_idiso.root
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/EEET_sep22_sync_trigger_idiso.root
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/EEMT_sep22_sync_trigger_idiso.root
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/EETT_sep22_sync_trigger_idiso.root
+
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/MMEM_sep22_sync_trigger_idiso.root
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/MMTT_sep22_sync_trigger_idiso.root
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/MMET_sep22_sync_trigger_idiso.root
+      /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Sep22/MMMT_sep22_sync_trigger_idiso.root
+      
+
 10 August 2017:
   - Sync trees for all eight channels. No electron regression. Includes trigger cuts.
        /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/EEMT_sync_noElecReg.root 
@@ -34,3 +50,5 @@ Sync for AZh (MC)
  - correct tau eta cut
  - remove requirement on Higgs charge
      /afs/cern.ch/user/j/jheikkil/Public/AZHSync2017/EEMT_fixed.root
+
+
