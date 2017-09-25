@@ -93,5 +93,15 @@ Updated electron ID/Iso WPs.  Electrons associated with Z boson only have to pas
 
 
 
+25 Sept, 2017
+With updated ID/Iso electron WP, updated the "numGoodElectrons" variable.  No electron energy regression in these files. From  /hdfs/store/user/truggles/ZH_sync_sept24 files.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_mmtt.root
 
 
