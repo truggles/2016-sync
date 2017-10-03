@@ -10,4 +10,7 @@ also adding old WPs and Z boson requirements (pre-Sept12), sorry about wrong bin
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20170912/htt_zh.inputs-mssm-13TeV_AMass_oldSelections.root
 
 
-
+03 Oct, 2017
+Corrected muonSF for tight isolation, and tauSF
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171003/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171003/htt_zh.inputs-mssm-13TeV_AMass_new.root
