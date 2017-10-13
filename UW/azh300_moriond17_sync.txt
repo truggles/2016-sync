@@ -105,3 +105,16 @@ With updated ID/Iso electron WP, updated the "numGoodElectrons" variable.  No el
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20170925/azh300_mmtt.root
 
 
+13 Oct, 2017
+First try with using "bestZ Mass" after only muon/electron pt > 9 GeV cuts and eta cuts.  If Z pair mass != bestZ mass don't consider that as an option
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171013/azh300_mmtt.root
+
+
+
