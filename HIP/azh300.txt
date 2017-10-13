@@ -2,6 +2,20 @@ Sync for AZh (MC)
   
   Using AZh sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
 
+13 October 2017:
+  - Use selection process OS+MASS+IDISO
+  - Baseline cut for electron and muon pts 9 GeV, but require 10 GeV for all legs after selections.
+
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/EEEM_1310.root  
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/EETT_1310.root 
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/EEET_1310.root  
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/EEMT_1310.root  
+
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/MMEM_1310.root  
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/MMTT_1310.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/MMMT_1310.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct13/MMET_1310.root
+
 
 22 September 2017:
   - Modify Z selection process from (OS, IDISO, MASS) to (OS, MASS, IDISO)
