@@ -118,3 +118,16 @@ First try with using "bestZ Mass" after only muon/electron pt > 9 GeV cuts and e
 
 
 
+14 Oct, 2017
+Calculate "bestZ Mass" after baseline cuts (keep pt>9), eta, dXY, dZ, missingHits, conversionVeto
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20171014/azh300_mmtt.root
+
+
+
