@@ -2,6 +2,20 @@ Sync for AZh (MC)
   
   Using AZh sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
 
+16 October 2017:
+  - Bug fix for implementing trigger cuts
+
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/EEEM_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/EETT_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/EEET_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/EEMT_1510.root
+
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/MMEM_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/MMTT_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/MMMT_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/1510TRG/MMET_1510.root
+    
+
 15 October 2017:
 
   - Require pt 10 GeV for el and mu when reconstructing Higgs candidates
