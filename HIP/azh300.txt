@@ -2,6 +2,21 @@ Sync for AZh (MC)
   
   Using AZh sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
 
+15 October 2017:
+
+  - Require pt 10 GeV for el and mu when reconstructing Higgs candidates
+    
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/EEEM_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/EETT_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/EEET_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/EEMT_1510.root
+
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/MMEM_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/MMTT_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/MMMT_1510.root
+     /afs/cern.ch/user/j/jheikkil/public/AZHSync2017/Oct15/MMET_1510.root
+ 
+
 13 October 2017:
   - Use selection process OS+MASS+IDISO
   - Baseline cut for electron and muon pts 9 GeV, but require 10 GeV for all legs after selections.
