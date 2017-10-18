@@ -24,9 +24,12 @@ styles = [2, 1, 3, 4, 5]
 def findTree(f):
     for key in f.GetListOfKeys():
         tree = f.Get(key.GetName())
+        if key.GetName() == 'triggerNames' : continue
         if isinstance(tree, ROOT.TTree):
+            print "tree:",tree
             return tree
         elif isinstance(tree, ROOT.TDirectory):
+            print "dir:",tree
             return findTree(tree)
     print 'Failed to find a TTree in file', f
     return None
@@ -79,7 +82,7 @@ def comparisonPlots(u_names, trees, titles, pname='sync.pdf', ratio=True):
         display.Draw(hists, titles)
 
 
-def interSect(tree1, tree2, var='evt', common=False, save=False,  titles=[]):
+def interSect(tree1, tree2, var='EventNumber', common=False, save=False,  titles=[]):
     # run, lumi, evt
     tlist1 = ROOT.TEntryList()
     tlist2 = ROOT.TEntryList()
@@ -121,7 +124,7 @@ def interSect(tree1, tree2, var='evt', common=False, save=False,  titles=[]):
     return tlist1, tlist2
 
 
-def scanForDiff(tree1, tree2, branch_names, scan_var='pt_1', index_var='evt'):
+def scanForDiff(tree1, tree2, branch_names, scan_var='pt_1', index_var='EventNumber'):
     # tree1.BuildIndex(index_var)
     # index1 = tree1.GetTreeIndex()
     tree2.BuildIndex(index_var)
