@@ -1,0 +1,11 @@
+Sync for AZh (MC)
+  
+  Using AZh sample: /AToZhToLLTauTau_M-300_13TeV_madgraph_4f_LO/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM
+
+
+18 October 2017:
+  - New Files, with BestZ+Mass+ISO/ID (for leg_1 and leg_2) 
+  - Gives perfect sync with Jaana
+                                           
+location: /afs/cern.ch/user/i/ivasilas/public/AToZhToLLTauTau_M300SyncFile
+
