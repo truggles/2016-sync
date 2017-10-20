@@ -14,3 +14,14 @@ also adding old WPs and Z boson requirements (pre-Sept12), sorry about wrong bin
 Corrected muonSF for tight isolation, and tauSF
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171003/htt_zh.inputs-mssm-13TeV_4LMass_new.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171003/htt_zh.inputs-mssm-13TeV_AMass_new.root
+
+
+20 Oct, 2017
+New DCs for SS Higgs with Tight (signal selection) cuts on Higgs leptons.  Please ignore the Reducible Bkg histograms.  They are larger and were not configured correctly.  Please compare Data and MC base backgrounds.
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171020/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171020/htt_zh.inputs-mssm-13TeV_AMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171020/htt_zh.inputs-sm-13TeV_svFitMass_new.root
+
+
+
+
