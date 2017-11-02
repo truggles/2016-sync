@@ -30,3 +30,8 @@ Same as 20 Oct, but no bJet veto
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171024/htt_zh.inputs-sm-13TeV_svFitMass_new.root
 
 
+2 Nov, 2017
+Correction by adding TT which was ignored earlier, and correcting WZ, using SS Tight selection, no bjet veto applied
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171102/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171102/htt_zh.inputs-mssm-13TeV_AMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171102/htt_zh.inputs-sm-13TeV_svFitMass_new.root

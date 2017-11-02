@@ -57,7 +57,7 @@ def comparisonPlots(files, titles, category, pname='sync.pdf', ratio=True, contr
 
     display = DisplayManager(pname, ratio)
     if contributions is None:
-        contributions = ['data_obs','ggH_htt125','qqH_htt125','ZH_htt125','WH_htt125','ZZ','RedBkg','DYJ','WZ','ttZ','TriBoson','ZH_hww125','azh220','azh240','azh260','azh280','azh300','azh320','azh340','azh350']
+        contributions = ['data_obs','ggH_htt125','qqH_htt125','ZH_htt125','WH_htt125','ZZ','RedBkg','DYJ','TT','WZ','ttZ','TriBoson','ZH_hww125','azh220','azh240','azh260','azh280','azh300','azh320','azh340','azh350']
     
     for template in contributions:
     
