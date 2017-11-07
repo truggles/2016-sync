@@ -1,0 +1,9 @@
+7 Nov, 2017
+
+New DCs for OS Higgs with Tight cuts on Higgs leptons. Please ignore the Reducible Bkg histograms. Data samples are not included. No bjet veto applied 
+
+/afs/cern.ch/user/i/ivasilas/public/SyncCards/A_Mass_OSFile_04Nov_Nobjet.root
+
+Same as above but with bjet veto applied
+
+/afs/cern.ch/user/i/ivasilas/public/SyncCards/A_Mass_OSFile_04Nov.root
