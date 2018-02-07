@@ -1,0 +1,14 @@
+
+
+
+7 Feb, 2017:
+Data NTuple sync for LLTT final states with three cuts:
+1. Denominator cuts ( pt_(3,4) > 20, VVLoose on both taus)
+2. Numerator cuts (denom + medium id on both legs)
+3. Denominator + btag veto
+ - /afs/cern.ch/work/t/truggles/public/forJaana/fr_sync_20180207/data_eett_cut1.root
+ - /afs/cern.ch/work/t/truggles/public/forJaana/fr_sync_20180207/data_eett_cut2.root
+ - /afs/cern.ch/work/t/truggles/public/forJaana/fr_sync_20180207/data_eett_cut3.root
+ - /afs/cern.ch/work/t/truggles/public/forJaana/fr_sync_20180207/data_mmtt_cut1.root
+ - /afs/cern.ch/work/t/truggles/public/forJaana/fr_sync_20180207/data_mmtt_cut2.root
+ - /afs/cern.ch/work/t/truggles/public/forJaana/fr_sync_20180207/data_mmtt_cut3.root
