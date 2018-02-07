@@ -43,5 +43,15 @@ This is the final signal region cuts EXCEPT, Higgs SS, No LT cuts, No bjet Cut
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207/htt_zh.inputs-mssm-13TeV_AMass_new.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207/htt_zh.inputs-sm-13TeV_svFitMass_new.root
 
+7 Feb, 2017
+Same as above but without the Tau MVA Raw skim of > -0.8
+This leads to 3 less events in LLTT
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207v2/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207v2/htt_zh.inputs-mssm-13TeV_AMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207v2/htt_zh.inputs-sm-13TeV_svFitMass_new.root
+
+
+
+
 
 
