@@ -35,3 +35,13 @@ Correction by adding TT which was ignored earlier, and correcting WZ, using SS T
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171102/htt_zh.inputs-mssm-13TeV_4LMass_new.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171102/htt_zh.inputs-mssm-13TeV_AMass_new.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20171102/htt_zh.inputs-sm-13TeV_svFitMass_new.root
+
+7 Feb, 2017
+Adding Higgs SS datacards with the double + single lepton trigger method and newest Fake Rate method
+This is the final signal region cuts EXCEPT, Higgs SS, No LT cuts, No bjet Cut
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207/htt_zh.inputs-mssm-13TeV_AMass_new.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180207/htt_zh.inputs-sm-13TeV_svFitMass_new.root
+
+
+
