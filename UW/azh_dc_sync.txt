@@ -56,7 +56,9 @@ Higgs SS, no LT cuts, no bJet Veto, no Tau MVA skim, RedBkg yield taken from H_S
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/201802015/htt_zh.inputs-mssm-13TeV_AMass_new.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/201802015/htt_zh.inputs-sm-13TeV_svFitMass_new.root
 
-
+1 May, 2018
+Higgs OS, all cuts included, only doing visible A mass (no TEC applied)
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180501/htt_zh.inputs-mssm-13TeV_4LMass_new.root
 
 
 
