@@ -61,4 +61,10 @@ Higgs OS, all cuts included, only doing visible A mass (no TEC applied)
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180501/htt_zh.inputs-mssm-13TeV_4LMass_new.root
 
 
+17 May, 2018
+Higgs OS, no LT cuts, only doing visible A mass (no TEC applied)
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180517/htt_zh.inputs-mssm-13TeV_4LMass_new.root
+
+
+
 
