@@ -154,3 +154,15 @@ Corrected a bool based cut
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180109_v2/azh300_mmtt.root
 
 
+13 June, 2018
+OS Signal region cuts, everything except LT_higgs
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_mmtt.root
+
+
