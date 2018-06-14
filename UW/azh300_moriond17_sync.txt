@@ -165,4 +165,15 @@ OS Signal region cuts, everything except LT_higgs
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_mmmt.root
  - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180613/azh300_cut_mmtt.root
 
-
+14 June, 2018
+Tyler fixes jet #2 distributions and addes correct shiftedPt_3 / 4.  Removed bjet cut
+only 1/2 of the sample is processed so just look at common events
+The bjet veto variable is bjetCISVVeto20Medium
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_eeem.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_eeet.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_eemt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_eett.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_emmm.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_emmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_mmmt.root
+ - /afs/cern.ch/work/t/truggles/public/forAZH/sync/20180614/azh300_cut_mmtt.root
