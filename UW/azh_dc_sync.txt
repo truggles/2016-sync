@@ -67,5 +67,11 @@ Higgs OS, no LT cuts, only doing visible A mass (no TEC applied)
  - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180517/htt_zh.inputs-mssm-13TeV_4LMass_new_WITH_LTCuts.root # with LT cut per naming :-) 
 
 
+19 July, 2018
+Fully analysis selections, using A_mass with H_sv_constrained and full systematics (all shapes)
+ - /afs/cern.ch/work/t/truggles/public/forAZH/dcSync/20180719/htt_zh.inputs-mssm-13TeV_AMassConst_new.root
+
+
+
 
 
